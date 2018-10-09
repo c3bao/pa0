@@ -1,0 +1,1 @@
+]0;[cs30f]  cs30fak@ieng6-203.ucsd.edu:/home/linux/ieng6/cs30f/cs30fak
